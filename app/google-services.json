@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873562372481",
+    "firebase_url": "https://hello-a86af.firebaseio.com",
+    "project_id": "hello-a86af",
+    "storage_bucket": "hello-a86af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873562372481:android:4ca6ceacde7dce60e1d080",
+        "android_client_info": {
+          "package_name": "com.example.foodscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873562372481-53he0apnlm8kd9hrm5b6rflinvqqaiam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbgv6Tj0WO69S_wxVx6pVGaJCQggB5Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873562372481-53he0apnlm8kd9hrm5b6rflinvqqaiam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
